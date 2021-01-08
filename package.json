@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "laravel-mix": "^6.0.9"
+  },
+  "devDependencies": {
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^3.1.2",
+    "sass": "^1.32.2",
+    "sass-loader": "^8.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
